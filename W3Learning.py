@@ -34,4 +34,5 @@ txt = "Life is all about Happiness, Skills, Knowledge, Luck"
 if "Unfair" not in txt:
     print("Sometimes life is unfair but keep push you will get there.")
 
-    
+TropicalSmoothieFruits = []
+NonTropicalSmoothieFruits = []
