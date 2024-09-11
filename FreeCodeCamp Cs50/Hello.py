@@ -5,5 +5,3 @@ print(Username)
 #Outputs the password for the user
 Password = input("Password ")
 print(Password)
-
-os.path.exsists(file_path)
